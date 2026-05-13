@@ -37,8 +37,8 @@ st.title("Compétences techniques")
 st.write("- connaissances de base en production agricole") 
 st.write("- Compréhension des sols et de leur fertilité")
 st.write("- Analyse et interprétation de données simples")
-st.write("Utilisation des logiciels de base(Word,Excel,Powerpoint)")
-st.write("utilisation de Python(niveau débutant)")
+st.write("- Utilisation des logiciels de base(Word,Excel,Powerpoint)")
+
 
 st.title("Expériences")
 st.write("- Participation au suivi et à l'entretien des cultures")
