@@ -10,13 +10,7 @@ with st.sidebar:
 
     st.write("_____________")
 
-
-    
-    
-    
-    
-    
-   st.markdown(""" Merci d'avoir consulté mon cv. N'hésitez pas à me consulter pour toute collaboration, stage ou opportunité professionnelle.""")
+    st.markdown(""" Merci d'avoir consulté mon cv. N'hésitez pas à me consulter pour toute collaboration, stage ou opportunité professionnelle.""")
 
 
 st.title("Aminata Mbaye") 
